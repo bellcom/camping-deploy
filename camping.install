@@ -79,14 +79,14 @@ function valhalla_install() {
   user_role_grant_permissions(DRUPAL_ANONYMOUS_RID, array('access content'));
   user_role_grant_permissions(DRUPAL_AUTHENTICATED_RID, array('access content'));
 
-  theme_enable(array('Caming-theme'));
+  theme_enable(array('Camping'));
   theme_disable(array('bartik', 'rubik'));
 
   // Set default home page
   // variable_set('site_frontpage', 'status');
 
   // Set default theme to Camping
-  variable_set('theme_default', 'Camping-theme');
+  variable_set('theme_default', 'Camping');
   // Set admin theme to Rubik.
   variable_set('admin_theme', 'seven');
   // Set admin theme on node/edit and node/add
