@@ -1,0 +1,13 @@
+*.py[co]
+
+# Ignore the product of a make.
+/build
+/libraries
+/modules
+/themes
+/os2web
+/old-os2web-*
+/translations
+
+/nbproject
+*.sublime-*
