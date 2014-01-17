@@ -2,7 +2,7 @@ core = 7.x
 api = 2
 
 ; Modules
-projects[addressfield][version] = "1.0-beta4"
+projects[addressfield][version] = "1.0-beta5"
 
 projects[admin_menu][version] = "3.0-rc4"
 
@@ -18,17 +18,17 @@ projects[commerce_email][version] = "1.x-dev"
 
 projects[commerce_invoice][version] = "1.0-alpha3"
 
-projects[quickpay][version] = "1.8"
+projects[quickpay][version] = "1.9"
 
-projects[date][version] = "2.6"
+projects[date][version] = "2.7"
 
 projects[devel][version] = "1.3"
 
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.3"
 
 projects[entityreference][version] = "1.1"
 
-projects[media][version] = "1.3"
+projects[media][version] = "1.4"
 
 projects[gtranslate][version] = "1.9"
 
