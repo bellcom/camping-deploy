@@ -18,6 +18,8 @@ projects[commerce_email][version] = "1.x-dev"
 
 projects[commerce_invoice][version] = "1.0-alpha3"
 
+projects[commerce_reports][version] = "4.0-alpha1"
+
 projects[quickpay][version] = "1.9"
 
 projects[date][version] = "2.7"
