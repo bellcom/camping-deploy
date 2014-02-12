@@ -20,6 +20,10 @@ projects[commerce_invoice][version] = "1.0-alpha3"
 
 projects[commerce_reports][version] = "4.0-alpha1"
 
+projects[charts][version] = "2.0-beta5"
+
+projects[views_date_format_sql][version] = "3.1"
+
 projects[quickpay][version] = "1.9"
 
 projects[date][version] = "2.7"
