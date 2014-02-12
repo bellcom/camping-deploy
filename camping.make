@@ -18,8 +18,6 @@ projects[commerce_email][version] = "1.x-dev"
 
 projects[commerce_invoice][version] = "1.0-alpha3"
 
-projects[commerce_currency_settings][version] = "1.2"
-
 projects[commerce_reports][version] = "4.0-alpha1"
 
 projects[charts][version] = "2.0-beta5"
