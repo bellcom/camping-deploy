@@ -22,6 +22,8 @@ projects[commerce_currency_settings][version] = "1.2"
 
 projects[commerce_reports][version] = "4.0-alpha1"
 
+projects[views_data_export][version] = "3.0-beta7"
+
 projects[charts][version] = "2.0-beta5"
 
 projects[views_date_format_sql][version] = "3.1"
