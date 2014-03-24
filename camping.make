@@ -18,8 +18,6 @@ projects[commerce_email][version] = "1.x-dev"
 
 projects[commerce_invoice][version] = "1.0-alpha3"
 
-projects[commerce_currency_settings][version] = "1.2"
-
 projects[commerce_reports][version] = "4.0-alpha1"
 
 projects[views_data_export][version] = "3.0-beta7"
@@ -82,7 +80,7 @@ projects[Camping][version] = "1.0"
 
 ; Libraries
 libraries[fullcalendar][download][type] = "get"
-libraries[fullcalendar][download][url] = "https://github.com/arshaw/fullcalendar/releases/download/v1.6.4/fullcalendar-1.6.4.zip"
+libraries[fullcalendar][download][url] = "http://www.drupalrooms.com/sites/default/files/fullcalendar-1.5.4.zip"
 libraries[fullcalendar][directory_name] = "fullcalendar"
 libraries[fullcalendar][destination] = "libraries"
 
