@@ -78,7 +78,7 @@ projects[Camping][version] = "1.0"
 
 ; Libraries
 libraries[fullcalendar][download][type] = "get"
-libraries[fullcalendar][download][url] = "https://github.com/arshaw/fullcalendar/releases/download/v1.6.4/fullcalendar-1.6.4.zip"
+libraries[fullcalendar][download][url] = "http://www.drupalrooms.com/sites/default/files/fullcalendar-1.5.4.zip"
 libraries[fullcalendar][directory_name] = "fullcalendar"
 libraries[fullcalendar][destination] = "libraries"
 
