@@ -2,6 +2,9 @@ core = 7.x
 api = 2
 
 ; Modules
+
+projects[features][version] = "2.0"
+
 projects[addressfield][version] = "1.0-beta5"
 
 projects[admin_menu][version] = "3.0-rc4"
@@ -60,6 +63,10 @@ projects[print][version] = "1.2"
 projects[rooms][download][type] = "git"
 projects[rooms][download][url] = "https://github.com/Yani0029/rooms.git"
 projects[rooms][type] = "module"
+
+projects[camping][download][type] = "git"
+projects[camping][download][url] = "https://github.com/bellcom/camping.git"
+projects[camping][type] = "module"
 
 projects[rules][version] = "2.6"
 
