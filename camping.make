@@ -77,7 +77,7 @@ projects[variable_email][version] = "1.0-alpha1"
 projects[] = "views"
 projects[views_pdf][version] = "1.3"
 
-projects[views_php][version] = "1.x-dev"
+projects[views_php][version] = "1.0-alpha1"
 
 ; Themes
 projects[Camping][download][type] = "git"
